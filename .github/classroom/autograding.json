@@ -8,7 +8,7 @@
       "output": "mean1A = 16.0\r\nmean2A = 3.5\r\nmean1A + mean2A = 19.5\r\nThe probability that two events will take less than t' < t:\r\nPrA(t'< 20.0 s) = 0.50",
       "comparison": "included",
       "timeout": 2,
-      "points": 20
+      "points": 50
     },
     {
       "name": "Test2",
@@ -18,7 +18,7 @@
       "output": "mean1A = 8.29\r\nmean2A = 4.14\r\nmean1A + mean2A = 12.43\r\nThe probability that two events will take less than t' < t:\r\nPrA(t'< 15.0 s) = 0.80",
       "comparison": "included",
       "timeout": 2,
-      "points": 20
+      "points": 50
     }
   ]
 }
