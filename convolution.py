@@ -87,7 +87,7 @@ class Solution:
         [TODO] (1a) Do for every time step t_i:
         
         """
-        for t_i in range(len(convolutionA)):
+        for i in range(len(convolutionA)):
          #   [TODO] (1b) Define f
             f = (self.f1A[:i+1])
            # [TODO] (1c) Define g
